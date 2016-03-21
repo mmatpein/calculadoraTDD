@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/home/mauri/NetBeansProjects/calculadoraTDD4/modelo/Operador.php</file>
+            <file>file:/home/mauri/NetBeansProjects/calculadoraTDD4/validacion/ValidadorLimiteInferior.php</file>
+            <file>file:/home/mauri/NetBeansProjects/calculadoraTDD4/validacion/ValidadorLimiteSuperior.php</file>
+            <file>file:/home/mauri/NetBeansProjects/calculadoraTDD4/system-tests/indexTest.php</file>
+            <file>file:/home/mauri/NetBeansProjects/calculadoraTDD4/modelo/OperadorBinario.php</file>
+            <file>file:/home/mauri/NetBeansProjects/calculadoraTDD4/validacion/ValidadorOperacion.php</file>
+            <file>file:/home/mauri/NetBeansProjects/calculadoraTDD4/test/validacion/IntegracionValidadoresTest.php</file>
+            <file>file:/home/mauri/NetBeansProjects/calculadoraTDD4/validacion/Validador.php</file>
+            <file>file:/home/mauri/NetBeansProjects/calculadoraTDD4/test/validacion/ValidadorLimiteInferiorTest.php</file>
+            <file>file:/home/mauri/NetBeansProjects/calculadoraTDD4/test/modelo/OperadorBinarioTest.php</file>
+        </group>
+    </open-files>
+</project-private>

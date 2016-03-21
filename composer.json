@@ -1,0 +1,13 @@
+{
+    "require-dev":{
+        "phpunit/phpunit":"5.2.2",
+        "facebook/webdriver":">=1.1.1-stable"
+    },
+    "autoload":{
+        "psr-4":{
+            "calculadoraTDD4\\modelo\\":"modelo/",
+            "calculadoraTDD4\\validacion\\":"validacion/",
+            "calculadoraTDD4\\vista\\":"vista/"
+        }
+    }
+}
